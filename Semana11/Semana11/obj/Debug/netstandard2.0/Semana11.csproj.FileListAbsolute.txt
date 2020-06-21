@@ -1,0 +1,17 @@
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\bin\Debug\netstandard2.0\Semana11.deps.json
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\bin\Debug\netstandard2.0\Semana11.dll
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\bin\Debug\netstandard2.0\ref\Semana11.dll
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\bin\Debug\netstandard2.0\Semana11.pdb
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Semana11.csprojAssemblyReference.cache
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Views\CommandDemo.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Views\InteractiveDemo.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Views\Operaciones.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Views\SimpleDemo.xaml.g.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Semana11.AssemblyInfoInputs.cache
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Semana11.AssemblyInfo.cs
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Semana11.dll
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\ref\Semana11.dll
+C:\Users\william\source\repos\Semana11\Semana11\Semana11\obj\Debug\netstandard2.0\Semana11.pdb
